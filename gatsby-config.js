@@ -18,13 +18,6 @@ module.exports = {
          },
          __key: "images",
       },
-      {
-         resolve: `gatsby-source-filesystem`,
-         options: {
-            name: `destinations`,
-            path: `${__dirname}/src/destinations/`,
-         },
-      },
       "gatsby-plugin-postcss",
    ],
 };
