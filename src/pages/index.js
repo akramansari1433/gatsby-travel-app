@@ -36,7 +36,7 @@ const IndexPage = () => {
                <StaticImage
                   className="absolute inset-0 h-full w-full object-cover"
                   src="../images/hero-container.jpg"
-                  alt="dentist image"
+                  alt="cover image"
                />
             </div>
          </main>
